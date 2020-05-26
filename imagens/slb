@@ -1,0 +1,2043 @@
+
+
+
+
+	
+<!DOCTYPE html>
+<html>
+	<head>	
+
+
+
+<meta property="og:title" content="Vila Gal&#233;" />
+<meta property="og:type" content="website" />
+<meta property="og:locale" content="es" />
+<meta property="og:url" content="https://www.vilagale.com/es/club/acuerdos/slb" />
+<meta property="og:image" content="https://www.vilagale.com/media/439306/img_slb_665x600px.jpg" />
+<meta property="og:site_name" content="Vila Gal&#233;" />
+<!-- genericPage -->
+
+<link rel="alternate" hreflang="en" href="https://www.vilagale.com/en/">
+<link rel="alternate" hreflang="de" href="https://www.vilagale.com/de/">
+<link rel="alternate" hreflang="es" href="https://www.vilagale.com/es/">
+<link rel="alternate" hreflang="fr" href="https://www.vilagale.com/fr/">
+<link rel="alternate" hreflang="pt" href="https://www.vilagale.com/pt/">
+<link rel="alternate" hreflang="x-default" href="https://www.vilagale.com" />
+
+	
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+		<meta http-equiv="Pragma" content="no-cache" />
+		<meta http-equiv="Expires" content="0" />
+		<title>Vila Gal&#233;</title>
+	
+			
+<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	
+<link rel="apple-touch-icon" sizes="57x57" href="/images/favicons/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/images/favicons/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/images/favicons/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/images/favicons/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/images/favicons/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/images/favicons/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/images/favicons/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/images/favicons/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/favicons/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/images/favicons/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/images/favicons/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicons/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="144x144" href="/images/favicons/android-icon-144x144.png">
+<link rel="icon" type="image/png" sizes="72x72" href="/images/favicons/android-icon-72x72.png">
+<link rel="icon" type="image/png" sizes="48x48" href="/images/favicons/android-icon-48x48.png">
+<link rel="manifest" href="/images/favicons/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/images/favicons/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+	
+<link rel="mask-icon" href="/images/favicons/safari-pinned-tab.svg" color="#fff">
+		
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script>
+				(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+				})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+				ga('create', 'UA-2757589-7', 'auto');
+				var gaClientId;
+				ga(function(tracker) {
+					gaClientId = tracker.get('clientId');
+				});
+			</script>
+			
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-567KLNX');</script>
+		<!-- End Google Tag Manager -->
+	
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	
+			<link rel="stylesheet" href="/css/main_vilagale.min.css">
+		<link rel="stylesheet" href="/css/styles.css?v=1.0.2">
+		<script type="text/javascript">
+			WebFontConfig = {
+				google: {
+					families: ['Titillium Web:400,200,300,300italic,200italic,600,400italic,600italic,700,700italic,900','Raleway&display=swap']
+				},
+				active: function () {
+					window.loadedFonts = 1;
+					if(typeof vilagale !== 'undefined')
+						vilagale.loading.stopLoader();
+				}
+			};
+			(function() {
+				var wf = document.createElement('script');
+				wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+					'://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+				wf.type = 'text/javascript';
+				wf.async = 'true';
+				var s = document.getElementsByTagName('script')[0];
+				s.parentNode.insertBefore(wf, s);
+			})();
+		</script>
+
+		
+		<script>
+			if (!window.HTMLPictureElement) {
+			  document.write('<script src="/scripts/libs/respimage.min.js" async><\/script>');
+			}
+			var cookiemsg = '<span>Utilizamos cookies para mejorar su experiencia. Al navegar por el sitio estará consentiendo a su uso. Vea nuestra política de privacidad. Este sitio web no compartirá ninguna información personal con terceros.</span>';
+		</script>
+		<script src="/scripts/libs/modernizr-custom.js"></script>
+			
+		<!-- 
+		Start of global Cadreon snippet: Please do not remove
+		Place this snippet between the <head> and </head> tags on every page of your site.
+		-->
+
+		<script src="//tt.mbww.com/tt-6581e4cbb8c4fb1607907df4896a80e709182fb9bfa0175333ea2615dba3a28b.js" async>
+		</script>
+
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.3.4/leaflet.css"/>
+		<!-- Make sure you put this AFTER Leaflet's CSS -->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.3.4/leaflet.js"></script>
+
+        <!-- Facebook Pixel Code -->
+    	<script>
+    		!function (f, b, e, v, n, t, s) {
+    			if (f.fbq) return; n = f.fbq = function () {
+    				n.callMethod ?
+    				n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+    			};
+    			if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
+    			n.queue = []; t = b.createElement(e); t.async = !0;
+    			t.src = v; s = b.getElementsByTagName(e)[0];
+    			s.parentNode.insertBefore(t, s)
+    		}(window, document, 'script',
+    			'https://connect.facebook.net/en_US/fbevents.js');
+    		fbq('init', '2064687497134806');
+    		fbq('track', 'PageView');
+    	</script>
+    	<noscript>
+    		<img height="1" width="1" style="display:none"
+    			 src="https://www.facebook.com/tr?id=2064687497134806&ev=PageView&noscript=1" />
+    	</noscript>
+    	<!-- End Facebook Pixel Code -->
+		
+		<style>
+			.map img {
+				max-height: none;
+			}
+		</style>
+		<meta name="google-site-verification" content="SmCorbYj5-IzbHHg3lx320yxOX3R0k-lBIQsv8RT9ZI" />
+	</head>
+			
+	<body lang="ES" data-page-id="6891" data-homepage="1116">
+		<script>
+			fbq('track', 'ViewContent');
+			fbq('track', 'Search');
+			fbq('track', 'Lead');
+		</script>
+		<!-- Google Tag Manager (noscript) -->
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-567KLNX" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<!-- End Google Tag Manager (noscript) -->
+		<div id="loading"></div>
+		<header role="banner" class="site-header site-header--outline ">
+      		<nav role="navigation" class="site-header__nav">
+		
+        		
+
+<div class="row no-gutter top-nav">
+	<div class="container-fluid no-gutter desktop">
+    	<div class="col-md-6 no-gutter">
+        	<button class="btn btn--ico-lang lang--es selected" data-action="openLanguage"><span>es</span></button>
+            <button class="btn btn--user">
+				Hola
+, Mr. Holmes
+			</button>
+            <button class="btn btn--log">
+				Login
+			</button>
+            <a href="https://reservas.vilagale.com/engine/manage?lingua=es" class="btn">
+				Gestionar las Reservas
+
+			</a>
+			<a href="http://clube.vilagale.com/login?lang=en" class="btn">
+				&#193;rea Cliente
+			</a>
+		</div>
+       	<div class="col-md-6 no-gutter">
+        	<nav class="nav--fixed">
+            	<button class="btn btn--ico-text btn--ico-text--magnify" data-action="findHotel">
+						<span>Encontrar un hotel</span>
+						<small>Hoteles
+</small>
+				</button>
+                <button class="btn btn--ico-text btn--ico-text--hamburger" data-action="exploreMenu">
+					<span>Explorar Vila Gal&#233;</span>
+					<small>Men&#250;
+</small>
+				</button>
+            </nav>
+			<button id="booknow" class="booknow" data-action="bookHotelHeader"
+					data-text-open="Reserve aqu&#237;"
+					data-text-close="Reservar m&#225;s tarde" data-url="http://reservas.vilagale.com/engine/search?lingua=es">
+Reserve aqu&#237;			</button>
+		</div>
+		<div class="row no-gutter">
+			<div class="col-md-12 no-gutter hotel-menu">
+				<a href="#hotelhero" class="gototop"></a>
+				<div class="hotel-menu-items nav--fixed">
+				</div>
+				<div class="marker"></div>
+			</div>
+		</div>
+	</div>
+</div>
+<button id="booknow" class="btn booknow mobile" data-action="bookHotelHeader" 
+		data-text-open="Reserve aqu&#237;"
+		data-text-close="Reservar m&#225;s tarde" data-url="http://reservas.vilagale.com/engine/search?lingua=es">
+Reserve aqu&#237;</button>
+	
+
+
+<section class="section--book-hotel">
+	<div class="container-fluid">
+		<div class="row no-gutter">
+
+			<div class="col-xs-12 center--vh">
+				<div class="box--breadcrumb">
+					<p class="step-2" data-step="1">
+
+						Quiero quedarme en <span class='hotel-name'></span>.
+					</p>
+                  	<p class="step-3" data-step="2">
+
+						De <span class='date-start'></span> hasta <span class='date-end'></span>.
+
+					</p>
+                  	<p class="step-4" data-step="3">
+
+						Y somos |ADULTOS#| y |NI&#209;OS#|.
+					</p>
+				</div>
+
+                <nav class="nav-booking-mobile">
+					<button class="btn active" data-step="1">
+						Hoteles
+					</button>
+					<button class="btn disable" data-step="2">
+						Fechas
+
+					</button>
+					<button class="btn disable" data-step="3">
+						Personas
+					</button>
+					<button class="btn disable" data-step="4">
+						Promo
+
+					</button>
+					<div class="marker"></div>
+                </nav>
+
+				<form class="headerBooking" action="https://reservas.vilagale.com/engine/manage" method="POST">
+
+					<input type="text" value="ES" id="lingua" name="lingua" data-parsley-required-message="" pattern='\d*' hidden>
+
+					<div class="box--steps" data-step="1">
+
+			
+						<div class="box--step step-1">
+							<div class="form-element form-element--label-out">
+								<label class="border-tr">
+									<span>&#191;D&#243;nde quiere quedarse?
+</span>
+								</label>
+								<div class="selectbox border-tl">
+									<div class="select-styled">
+										<select name="hotel" class="select-box select-box-style" data-action="select-ajax--hotels"
+											data-placeholder="Elija una opci&#243;n..."
+											data-parsley-required-message=""
+											autocomplete="off">
+											<option value="" disabled selected>
+												Elija una opci&#243;n...
+											</option>
+														<option value="12793" >
+															Vila Gal&#233; Collection Braga
+														</option>
+														<option value="1762" >
+															Vila Gal&#233; Collection Douro
+														</option>
+														<option value="16324" >
+															Vila Gal&#233; Douro Vineyards
+														</option>
+														<option value="1386" >
+															Vila Gal&#233; Porto
+														</option>
+														<option value="11965" >
+															Vila Gal&#233; Porto Ribeira
+														</option>
+														<option value="1923" >
+															Vila Gal&#233; Coimbra
+														</option>
+														<option value="19701" >
+															Vila Gal&#233; Serra da Estrela
+														</option>
+														<option value="1902" >
+															Vila Gal&#233; Ericeira
+														</option>
+														<option value="12657" >
+															Vila Gal&#233; Sintra
+														</option>
+														<option value="2008" >
+															Vila Gal&#233; Cascais
+														</option>
+														<option value="2077" >
+															Vila Gal&#233; Estoril
+														</option>
+														<option value="3711" >
+															Collection Pal&#225;cio dos Arcos
+														</option>
+														<option value="2422" >
+															Vila Gal&#233; &#211;pera
+														</option>
+														<option value="2118" >
+															Vila Gal&#233; Clube de Campo
+														</option>
+														<option value="2391" >
+															Vila Gal&#233; &#201;vora
+														</option>
+														<option value="15645" >
+															Vila Gal&#233; Collection Elvas
+														</option>
+														<option value="19891" >
+															Vila Gal&#233; Collection Alter Real
+														</option>
+														<option value="2448" >
+															Vila Gal&#233; Albacora
+														</option>
+														<option value="2834" >
+															Vila Gal&#233; Tavira
+														</option>
+														<option value="2468" >
+															Vila Gal&#233; Ampalius
+														</option>
+														<option value="2777" >
+															Vila Gal&#233; Marina
+														</option>
+														<option value="2601" >
+															Vila Gal&#233; Cerro Alagoa
+														</option>
+														<option value="2580" >
+															Vila Gal&#233; Atl&#226;ntico
+														</option>
+														<option value="2817" >
+															Vila Gal&#233; Collection Praia
+														</option>
+														<option value="2799" >
+															Vila Gal&#233; N&#225;utico
+														</option>
+														<option value="2693" >
+															Vila Gal&#233; Lagos
+														</option>
+														<option value="2922" >
+															Vila Gal&#233; Santa Cruz
+														</option>
+														<option value="1120" >
+															Vila Gal&#233; Fortaleza
+														</option>
+														<option value="2875" >
+															Vila Gal&#233; Cumbuco
+														</option>
+														<option value="14878" >
+															VG Sun Cumbuco by Vila Gal&#233;
+														</option>
+														<option value="13271" >
+															Vila Gal&#233; Touros
+														</option>
+														<option value="3290" >
+															Vila Gal&#233; Eco Resort do Cabo
+														</option>
+														<option value="1268" >
+															Vila Gal&#233; Mar&#233;s
+														</option>
+														<option value="2853" >
+															Vila Gal&#233; Salvador
+														</option>
+														<option value="2901" >
+															Vila Gal&#233; Rio de Janeiro
+														</option>
+														<option value="2941" >
+															Vila Gal&#233; Eco Resort de Angra
+														</option>
+										</select>
+									</div>
+								</div>
+							</div>
+
+							<a class="cta white-bg border-tlr hide" data-action="bookingNextStep">
+								<span data-text="Ya he elegido mi hotel. Pr&#243;ximo paso.">
+									Ya he elegido mi hotel. Pr&#243;ximo paso.
+								</span>
+							</a>
+
+						</div>
+
+			
+						<div class="box--step step-2">
+							<div class="form-element form-element--label-out visible-xs visible-sm">
+								<label class="border-tr">
+									<span>&#191;Cu&#225;les las fechas de su estancia?</span>
+								</label>
+							</div>
+
+							<div class="row form-element visible-xs visible-sm">
+								<div class="col-md-12">
+									<div class="dateinput form-element border-tlr">
+										<label>Check-in
+</label>
+										<input type="date" name="dataentrada" data-calendar-type="multidate"
+											placeholder="Elija sus fechas"
+											data-parsley-required-message="Por favor, rellene las fechas correctamente">
+									</div>
+								</div>
+								<div class="col-md-12">
+									<div class="dateinput form-element border-tlr">
+										<label>Check-out
+</label>
+										<input type="date" name="datasaida" data-calendar-type="multidate"
+											placeholder="Elija sus fechas"
+											data-parsley-required-message="Por favor, rellene las fechas correctamente">
+									</div>
+								</div>
+							</div>
+
+							<div class="hidden-xs hidden-sm">
+								<div class="dateinput form-element form-element--label-out">
+									<label class="border-tr">
+										<span>&#191;Cu&#225;les las fechas de su estancia?</span>
+									</label>
+									<div class="border-tl">
+										<input type="date" name="bookdates" data-calendar-type="multidate"
+											placeholder="Elija sus fechas"
+											data-parsley-required-message="Por favor, rellene las fechas correctamente">
+									</div>
+								</div>
+							</div>
+
+							<a class="cta white-bg border-tlr hide" data-action="bookingNextStep">
+								<span data-text="&#211;ptimo. Pr&#243;ximo paso.
+">
+									&#211;ptimo. Pr&#243;ximo paso.
+
+								</span>
+							</a>
+
+						</div>
+
+				
+						<div class="box--step step-3">
+							<div class="form-element form-element--label-out">
+								<label class="border-tr">
+									<span>&#191;Cu&#225;ntas personas son?</span>
+								</label>
+								<div class="border-tl">
+									<ul class="how-many">
+										<li>
+											<input type="text" readonly="readonly" name="adultos" class="adults" data-val="0" value="00">
+											<span>Adultos</span>
+											<button data-drt="less" class="btn--howmany btn--ico btn--ico-less">less</button>
+											<button data-drt="more" class="btn--howmany btn--ico btn--ico-more">more</button>
+										</li>
+										<li>
+											<input type="text" readonly="readonly" name="criancas" class="children" data-val="0" value="00">
+											<span>Ni&#241;os</span>
+											<button data-drt="less" class="btn--howmany btn--ico btn--ico-less">less</button>
+											<button data-drt="more" class="btn--howmany btn--ico btn--ico-more">more</button>
+										</li>
+									</ul>
+								</div>
+							</div>
+							<a class="cta white-bg border-tlr hide" data-action="bookingNextStep">
+								<span data-text="Todos a bordo. Pr&#243;ximo paso.
+">
+									Todos a bordo. Pr&#243;ximo paso.
+
+								</span>
+							</a>
+						</div>
+
+				
+						<div class="box--step step-4">
+							<div class="form-element form-element--label-out">
+								<label class="border-tr">
+									<span>&#191;Tiene un c&#243;digo promocional?
+</span>
+								</label>
+								<div class="border-tl">
+									<input type="text" value="" id="promocode" name="promocode"
+									placeholder="C&#243;digo promocional"
+									data-parsley-required-message="" pattern='\d*'>
+								</div>  
+							</div>
+							<p>
+								
+							</p>
+							<div data-action="submitHotelSearch" class="cta white-bg border-tlr"
+								data-code="Hecho. &#161;Ens&#233;&#241;enme resultados!
+"
+								data-nocode="No. &#161;Ens&#233;&#241;enme resultados!">
+								<span data-text="No. &#161;Ens&#233;&#241;enme resultados!">
+									No. &#161;Ens&#233;&#241;enme resultados!
+								</span>
+							</div>
+						</div>
+
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+</section>
+
+		
+<section class="section--langs">
+	<div class="langs">
+		<div class="container-fluid">
+        	<div class="col-md-12">
+            	<h2>&#191;Quiere cambiar el idioma?</h2>
+					<a class="btn btn--ico-lang lang--en " href="/en/club/partnerships/slb">
+						<span data-text="Yes, please.">Yes, please.</span>
+					</a>
+					<a class="btn btn--ico-lang lang--br " href="/br/clube/parcerias/slb">
+						<span data-text="Sim, por favor.">Sim, por favor.</span>
+					</a>
+					<a class="btn btn--ico-lang lang--pt " href="/pt/clube/parcerias/slb">
+						<span data-text="Sim, se faz favor.">Sim, se faz favor.</span>
+					</a>
+					<a class="btn btn--ico-lang lang--es selected" href="/es/club/acuerdos/slb">
+						<span data-text="No, estoy bien as&#237;.">No, estoy bien as&#237;.</span>
+					</a>
+					<a class="btn btn--ico-lang lang--de " href="/de/club/partnerschaften/slb">
+						<span data-text="Ja, bitte.">Ja, bitte.</span>
+					</a>
+					<a class="btn btn--ico-lang lang--fr " href="/fr/club/partenariats/slb">
+						<span data-text="Oui, s’il vous pla&#238;t.">Oui, s’il vous pla&#238;t.</span>
+					</a>
+			</div>
+		</div>
+	</div>
+</section>
+					
+<section class="section--main-nav dark">
+	<div class="main-nav">
+    	<div class="container-fluid">
+        	<div class="col-xs-4">
+				<a class="main-logo dark" href="/es" title="Vila GalÃ©">
+						<img class="logo-light" src="/media/1485487/logo-30-light.svg?quality=89" alt="Vila GalÃ©">
+											<img class="logo-dark" src="/media/1485488/logo-30-dark.svg?quality=89" alt="Vila GalÃ©">
+				</a>
+            </div>
+            <div class="col-xs-8">
+            	<ul class="actions">
+					<li>
+						<button class="btn btn--ico-text btn--ico-text--lang" data-action="openLanguage">
+							<img src="/images/langs/es.svg" alt="ES">
+							<span></span>
+							<small>ES</small>
+						</button>
+					</li>
+					<li>
+						<button class="btn btn--ico-text btn--ico-text--magnify" data-action="findHotel">
+							<span>Encontrar un hotel</span>
+							<small>Hoteles
+</small>
+						</button>
+					</li>
+					<li>
+						<button class="btn btn--ico-text btn--ico-text--hamburger" data-action="exploreMenu">
+							<span>Explorar Vila Gal&#233;</span>
+							<small>Men&#250;
+</small>
+						</button>
+					</li>
+            	</ul>
+			</div>
+		</div>
+	</div>
+</section>
+			
+        		
+
+<section class="section--main-menu">
+	<div class="main-menu">
+		<div class="row">
+			<div class="container-fluid">
+				
+				<div class="main-menu--mobile">
+					
+                  	<a href="https://reservas.vilagale.com/engine/manage?lingua=es" class="btn btn-outer">
+						Gestionar las Reservas
+
+					</a>
+					<a href="https://clube.vilagale.com/login?lang=en" class="btn btn-outer" style="width: 100%">
+						&#193;rea Cliente
+					</a>
+                  	<nav class="main-menu--sub-nav">
+								<button class="btn btn--arrow-right-green" 
+									data-menu="hoteles">
+									Hoteles
+								</button>
+								<button class="btn btn--arrow-right-green" 
+									data-menu="grupo">
+									Grupo
+								</button>
+								<button class="btn btn--arrow-right-green" 
+									data-menu="realces">
+									Realces
+								</button>
+								<button class="btn btn--arrow-right-green" 
+									data-menu="club">
+									Club
+								</button>
+								<button class="btn btn--arrow-right-green" 
+									data-menu="regalos">
+									Regalos
+								</button>
+								<button class="btn btn--arrow-right-green" 
+									data-menu="contactos">
+									Contactos
+								</button>
+                  	</nav>
+                </div>
+						
+                <div class="main-menu--mobile--sub-nav">
+                	<button class="btn btn--arrow-left-white btn-sub-nav-back" data-menu="hotels">
+						Volver
+					</button>
+                </div>
+						
+				<div class="col-md-12 main-menu__content">
+						<dl class="menu-list subnav-hoteles" data-menu="hoteles">
+							<dt><span>Hoteles</span></dt>
+								<dd>
+									<a href="/es/hoteles" title="">
+										Ver todos
+									</a>
+								</dd>
+																<dd>
+										<a href="/es/hoteles/porto-y-norte" 
+											title="Porto y Norte">
+											Porto y Norte
+										</a>
+									</dd>
+									<dd>
+										<a href="/es/hoteles/centro-de-portugal" 
+											title="Centro de Portugal">
+											Centro de Portugal
+										</a>
+									</dd>
+									<dd>
+										<a href="/es/hoteles/costa-de-lisboa" 
+											title="Costa de Lisboa">
+											Costa de Lisboa
+										</a>
+									</dd>
+									<dd>
+										<a href="/es/hoteles/alentejo" 
+											title="Alentejo">
+											Alentejo
+										</a>
+									</dd>
+									<dd>
+										<a href="/es/hoteles/algarve" 
+											title="Algarve">
+											Algarve
+										</a>
+									</dd>
+									<dd>
+										<a href="/es/hoteles/madeira" 
+											title="Madeira">
+											Madeira
+										</a>
+									</dd>
+									<dd>
+										<a href="/es/hoteles/ceara" 
+											title="Cear&#225;">
+											Cear&#225;
+										</a>
+									</dd>
+									<dd>
+										<a href="/es/hoteles/rio-grande-do-norte" 
+											title="Rio Grande do Norte">
+											Rio Grande do Norte
+										</a>
+									</dd>
+									<dd>
+										<a href="/es/hoteles/pernambuco" 
+											title="Pernambuco">
+											Pernambuco
+										</a>
+									</dd>
+									<dd>
+										<a href="/es/hoteles/bahia" 
+											title="Bahia">
+											Bahia
+										</a>
+									</dd>
+									<dd>
+										<a href="/es/hoteles/rio-de-janeiro" 
+											title="Rio de Janeiro">
+											Rio de Janeiro
+										</a>
+									</dd>
+						</dl>
+						<dl class="menu-list subnav-grupo" data-menu="grupo">
+							<dt><span>Grupo</span></dt>
+																<dd>
+										<a href="/es/grupo/acerca-vila-gale" 
+											title="Acerca Vila Gal&#233;">
+											Acerca Vila Gal&#233;
+										</a>
+									</dd>
+									<dd>
+										<a href="/es/grupo/media-kit" 
+											title="Media Kit">
+											Media Kit
+										</a>
+									</dd>
+									<dd>
+										<a href="/es/grupo/noticias" 
+											title="Noticias">
+											Noticias
+										</a>
+									</dd>
+									<dd>
+										<a href="/es/grupo/nuevos-proyectos" 
+											title="Nuevos proyectos">
+											Nuevos proyectos
+										</a>
+									</dd>
+									<dd>
+										<a href="/es/grupo/informacion-financiera" 
+											title="Informaci&#243;n Financiera">
+											Informaci&#243;n Financiera
+										</a>
+									</dd>
+									<dd>
+										<a href="/es/grupo/santa-vitoria-vinos-y-aceites" 
+											title="Santa Vit&#243;ria Vinos Y Aceites">
+											Santa Vit&#243;ria Vinos Y Aceites
+										</a>
+									</dd>
+						</dl>
+						<dl class="menu-list subnav-realces" data-menu="realces">
+							<dt><span>Realces</span></dt>
+																<dd>
+										<a href="/es/realces/stayhome" 
+											title="#STAYHOME">
+											#STAYHOME
+										</a>
+									</dd>
+									<dd>
+										<a href="/es/realces/promociones" 
+											title="Promociones">
+											Promociones
+										</a>
+									</dd>
+									<dd>
+										<a href="/es/realces/experiencias-vila-gale-" 
+											title="Experiencias Vila Gal&#233; ">
+											Experiencias Vila Gal&#233; 
+										</a>
+									</dd>
+									<dd>
+										<a href="/es/realces/wellness" 
+											title="Wellness">
+											Wellness
+										</a>
+									</dd>
+									<dd>
+										<a href="/es/realces/eventos-y-bodas" 
+											title="Eventos y Bodas">
+											Eventos y Bodas
+										</a>
+									</dd>
+									<dd>
+										<a href="/es/realces/gastronomia" 
+											title="Gastronom&#237;a">
+											Gastronom&#237;a
+										</a>
+									</dd>
+									<dd>
+										<a href="/es/realces/kids-club" 
+											title="Kids Club">
+											Kids Club
+										</a>
+									</dd>
+									<dd>
+										<a href="/es/realces/turism-for-all" 
+											title="Turism for all">
+											Turism for all
+										</a>
+									</dd>
+						</dl>
+						<dl class="menu-list subnav-club" data-menu="club">
+							<dt><span>Club</span></dt>
+																<dd>
+										<a href="/es/club/programas-de-fidelidad" 
+											title="Programas de Fidelidad">
+											Programas de Fidelidad
+										</a>
+									</dd>
+									<dd>
+										<a href="/es/club/acuerdos" 
+											title="Acuerdos">
+											Acuerdos
+										</a>
+									</dd>
+						</dl>
+						<dl class="menu-list subnav-regalos" data-menu="regalos">
+							<dt><span>Regalos</span></dt>
+																<dd>
+										<a href="/es/regalos/regalos-para-todos-los-gustos" 
+											title="Regalos para todos los gustos">
+											Regalos para todos los gustos
+										</a>
+									</dd>
+						</dl>
+						<dl class="menu-list subnav-contactos" data-menu="contactos">
+							<dt><span>Contactos</span></dt>
+															<dd>
+									<a href="/es/contactos" 
+										title="Contactos">
+										Contactos
+									</a>
+								</dd>
+						</dl>
+				</div>
+					
+			</div>
+		</div>
+	</div>
+</section>
+
+				
+
+<section class="section--find-hotel moodfor">
+	<div class="find-hotel">
+		<div class="container-fluid">
+			<h2>&#191;Quiere encontrar un hotel? D&#237;ganos…
+</h2>
+			<div class="row no-gutter">
+				<div class="col-md-5">
+					<div class="form-element form-element--label-out">
+                    	<label class="border-tr">
+							<span>&#191;D&#243;nde le apetece quedarse?
+</span>
+						</label>
+                    	<div class="selectbox border-tl">
+                      		<div class="select-styled">
+								<select class="select-box select-box-style" data-action="select-ajax--hotels" data-url="/test-selectboxes-ajax/">
+									<option value="">Elija un hotel
+</option>
+											<option value="/es/hoteles/porto-y-norte/vila-gale-collection-braga">
+												Vila Gal&#233; Collection Braga
+											</option>
+											<option value="/es/hoteles/porto-y-norte/vila-gale-collection-douro">
+												Vila Gal&#233; Collection Douro
+											</option>
+											<option value="/es/hoteles/porto-y-norte/vila-gale-douro-vineyards">
+												Vila Gal&#233; Douro Vineyards
+											</option>
+											<option value="/es/hoteles/porto-y-norte/vila-gale-porto">
+												Vila Gal&#233; Porto
+											</option>
+											<option value="/es/hoteles/porto-y-norte/vila-gale-porto-ribeira">
+												Vila Gal&#233; Porto Ribeira
+											</option>
+											<option value="/es/hoteles/centro-de-portugal/vila-gale-coimbra">
+												Vila Gal&#233; Coimbra
+											</option>
+											<option value="/es/hoteles/centro-de-portugal/vila-gale-serra-da-estrela">
+												Vila Gal&#233; Serra da Estrela
+											</option>
+											<option value="/es/hoteles/costa-de-lisboa/vila-gale-ericeira">
+												Vila Gal&#233; Ericeira
+											</option>
+											<option value="/es/hoteles/costa-de-lisboa/vila-gale-sintra">
+												Vila Gal&#233; Sintra
+											</option>
+											<option value="/es/hoteles/costa-de-lisboa/vila-gale-cascais">
+												Vila Gal&#233; Cascais
+											</option>
+											<option value="/es/hoteles/costa-de-lisboa/vila-gale-estoril">
+												Vila Gal&#233; Estoril
+											</option>
+											<option value="/es/hoteles/costa-de-lisboa/collection-palacio-dos-arcos">
+												Collection Pal&#225;cio dos Arcos
+											</option>
+											<option value="/es/hoteles/costa-de-lisboa/vila-gale-opera">
+												Vila Gal&#233; &#211;pera
+											</option>
+											<option value="/es/hoteles/alentejo/vila-gale-clube-de-campo">
+												Vila Gal&#233; Clube de Campo
+											</option>
+											<option value="/es/hoteles/alentejo/vila-gale-evora">
+												Vila Gal&#233; &#201;vora
+											</option>
+											<option value="/es/hoteles/alentejo/vila-gale-collection-elvas">
+												Vila Gal&#233; Collection Elvas
+											</option>
+											<option value="/es/hoteles/alentejo/vila-gale-collection-alter-real">
+												Vila Gal&#233; Collection Alter Real
+											</option>
+											<option value="/es/hoteles/algarve/vila-gale-albacora">
+												Vila Gal&#233; Albacora
+											</option>
+											<option value="/es/hoteles/algarve/vila-gale-tavira">
+												Vila Gal&#233; Tavira
+											</option>
+											<option value="/es/hoteles/algarve/vila-gale-ampalius">
+												Vila Gal&#233; Ampalius
+											</option>
+											<option value="/es/hoteles/algarve/vila-gale-marina">
+												Vila Gal&#233; Marina
+											</option>
+											<option value="/es/hoteles/algarve/vila-gale-cerro-alagoa">
+												Vila Gal&#233; Cerro Alagoa
+											</option>
+											<option value="/es/hoteles/algarve/vila-gale-atlantico">
+												Vila Gal&#233; Atl&#226;ntico
+											</option>
+											<option value="/es/hoteles/algarve/vila-gale-collection-praia">
+												Vila Gal&#233; Collection Praia
+											</option>
+											<option value="/es/hoteles/algarve/vila-gale-nautico">
+												Vila Gal&#233; N&#225;utico
+											</option>
+											<option value="/es/hoteles/algarve/vila-gale-lagos">
+												Vila Gal&#233; Lagos
+											</option>
+											<option value="/es/hoteles/madeira/vila-gale-santa-cruz">
+												Vila Gal&#233; Santa Cruz
+											</option>
+											<option value="/es/hoteles/ceara/vila-gale-fortaleza">
+												Vila Gal&#233; Fortaleza
+											</option>
+											<option value="/es/hoteles/ceara/vila-gale-cumbuco">
+												Vila Gal&#233; Cumbuco
+											</option>
+											<option value="/es/hoteles/ceara/vg-sun-cumbuco-by-vila-gale">
+												VG Sun Cumbuco by Vila Gal&#233;
+											</option>
+											<option value="/es/hoteles/rio-grande-do-norte/vila-gale-touros">
+												Vila Gal&#233; Touros
+											</option>
+											<option value="/es/hoteles/pernambuco/vila-gale-eco-resort-do-cabo">
+												Vila Gal&#233; Eco Resort do Cabo
+											</option>
+											<option value="/es/hoteles/bahia/vila-gale-mares">
+												Vila Gal&#233; Mar&#233;s
+											</option>
+											<option value="/es/hoteles/bahia/vila-gale-salvador">
+												Vila Gal&#233; Salvador
+											</option>
+											<option value="/es/hoteles/rio-de-janeiro/vila-gale-rio-de-janeiro">
+												Vila Gal&#233; Rio de Janeiro
+											</option>
+											<option value="/es/hoteles/rio-de-janeiro/vila-gale-eco-resort-de-angra">
+												Vila Gal&#233; Eco Resort de Angra
+											</option>
+								</select>
+							</div>
+						</div>
+					</div>			
+				</div>	
+									
+                <div class="col-md-2">
+                	<h3 class="h2">
+						O
+					</h3>
+                </div>
+						
+				<div class="col-md-5 moodfor-drop">	
+					<form action="/es/hoteles?tags=">
+		<div class="form-element form-element--label-out">
+			<label class="border-tr">
+				<span>&#191;Cu&#225;l es su estado de espirito?
+</span>
+			</label>
+			<div class="select-styled border-tl">
+				<select name="tags" class="select-box select-box-style chosen-select" multiple="" data-url="" 
+					data-placeholder="Playa, romance, amor…
+" 
+					data-populate-specs="" data-populate-image="" data-parsley-required-message="" style="display: none;">
+					<option value=""></option>
+						<option value="Amor">Amor</option>
+						<option value="romance">romance</option>
+						<option value="pareja">pareja</option>
+						<option value="feliz">feliz</option>
+						<option value="beso">beso</option>
+						<option value="lindo">lindo</option>
+						<option value="fecha">fecha</option>
+						<option value="pasi&#243;n">pasi&#243;n</option>
+						<option value="relaci&#243;n">relaci&#243;n</option>
+						<option value="metas">metas</option>
+						<option value="novio">novio</option>
+						<option value="novia">novia</option>
+						<option value="coraz&#243;n">coraz&#243;n</option>
+						<option value="felicidad">felicidad</option>
+						<option value="sorpresa rom&#225;ntica">sorpresa rom&#225;ntica</option>
+						<option value="Aire libre">Aire libre</option>
+						<option value="Libertad">Libertad</option>
+						<option value="Campamento">Campamento</option>
+						<option value="Camping">Camping</option>
+						<option value="Naturaleza">Naturaleza</option>
+						<option value="Explorar">Explorar</option>
+						<option value="Ver">Ver</option>
+						<option value="Wanderlust">Wanderlust</option>
+						<option value="Aire">Aire</option>
+						<option value="Libre">Libre</option>
+						<option value="Escapada">Escapada</option>
+						<option value="Fin de semana">Fin de semana</option>
+						<option value="Vacaciones">Vacaciones</option>
+						<option value="Descanso">Descanso</option>
+						<option value="Boda">Boda</option>
+						<option value="Bridesmaid">Bridesmaid</option>
+						<option value="Cake">Cake</option>
+						<option value="Pareja">Pareja</option>
+						<option value="Feliz">Feliz</option>
+						<option value="Flores">Flores</option>
+						<option value="Ceremonia">Ceremonia</option>
+						<option value="Luna de Miel">Luna de Miel</option>
+						<option value="Tradici&#243;n">Tradici&#243;n</option>
+						<option value="Iglesia">Iglesia</option>
+						<option value="Anillo">Anillo</option>
+						<option value="Vestido">Vestido</option>
+						<option value="Despedida de soltero">Despedida de soltero</option>
+						<option value="Viaje">Viaje</option>
+						<option value="Destino">Destino</option>
+						<option value="Fotograf&#237;a">Fotograf&#237;a</option>
+						<option value="Aventura">Aventura</option>
+						<option value="Visi&#243;n">Visi&#243;n</option>
+						<option value="Ciudad">Ciudad</option>
+						<option value="Destiny">Destiny</option>
+						<option value="Placer">Placer</option>
+						<option value="Discover">Discover</option>
+						<option value="Relax">Relax</option>
+						<option value="Cultura">Cultura</option>
+						<option value="Trabajo">Trabajo</option>
+						<option value="Museo">Museo</option>
+						<option value="Arte">Arte</option>
+						<option value="Turismo">Turismo</option>
+						<option value="Aprender">Aprender</option>
+						<option value="Sociedad">Sociedad</option>
+						<option value="Vista">Vista</option>
+						<option value="Urbano">Urbano</option>
+						<option value="Historia">Historia</option>
+						<option value="Playa">Playa</option>
+						<option value="relajarse">relajarse</option>
+						<option value="agua">agua</option>
+						<option value="mar">mar</option>
+						<option value="arena">arena</option>
+						<option value="deportes acu&#225;ticos">deportes acu&#225;ticos</option>
+						<option value="verano">verano</option>
+						<option value="descanso">descanso</option>
+						<option value="Campo">Campo</option>
+						<option value="Actividades">Actividades</option>
+						<option value="Ecoturismo">Ecoturismo</option>
+						<option value="Enoturismo">Enoturismo</option>
+						<option value="Animales">Animales</option>
+						<option value="Rural">Rural</option>
+						<option value="Vida Nocturna">Vida Nocturna</option>
+						<option value="Diversi&#243;n">Diversi&#243;n</option>
+						<option value="Fiesta">Fiesta</option>
+						<option value="Disco">Disco</option>
+						<option value="Club">Club</option>
+						<option value="M&#250;sica">M&#250;sica</option>
+						<option value="Noche">Noche</option>
+						<option value="Resort">Resort</option>
+						<option value="Caliente">Caliente</option>
+						<option value="Verano">Verano</option>
+						<option value="Comida">Comida</option>
+						<option value="Bebidas">Bebidas</option>
+						<option value="Precio">Precio</option>
+						<option value="Bodas">Bodas</option>
+						<option value="Entretenimiento">Entretenimiento</option>
+						<option value="Familia">Familia</option>
+						<option value="Viajes">Viajes</option>
+						<option value="Ni&#241;os">Ni&#241;os</option>
+						<option value="Descuentos">Descuentos</option>
+						<option value=""></option>
+						<option value="Calma">Calma</option>
+						<option value="Paz">Paz</option>
+						<option value="Relajarse">Relajarse</option>
+						<option value="Felicidad">Felicidad</option>
+						<option value="Meditaci&#243;n">Meditaci&#243;n</option>
+						<option value="Break">Break</option>
+						<option value="Distracci&#243;n">Distracci&#243;n</option>
+						<option value="Animaci&#243;n">Animaci&#243;n</option>
+						<option value="Tiempo Libre">Tiempo Libre</option>
+						<option value="Negocios">Negocios</option>
+						<option value="Conferencia">Conferencia</option>
+						<option value="Eventos">Eventos</option>
+						<option value="Reuni&#243;n">Reuni&#243;n</option>
+						<option value="Corporativo">Corporativo</option>
+						<option value="Sala">Sala</option>
+						<option value="Organizaci&#243;n">Organizaci&#243;n</option>
+						<option value="Presentaci&#243;n">Presentaci&#243;n</option>
+						<option value="Cumplea&#241;os">Cumplea&#241;os</option>
+						<option value="Animadores">Animadores</option>
+						<option value="Mascotas">Mascotas</option>
+						<option value="Descansar">Descansar</option>
+						<option value="S&#243;lo chicas">S&#243;lo chicas</option>
+						<option value="Amigos">Amigos</option>
+						<option value="Masaje">Masaje</option>
+						<option value="Pizzas">Pizzas</option>
+						<option value="Saveurs">Saveurs</option>
+						<option value="Italien">Italien</option>
+						<option value="Nourriture">Nourriture</option>
+						<option value="Gastronomie">Gastronomie</option>
+						<option value="D&#238;ner">D&#238;ner</option>
+						<option value="D&#233;jeuner">D&#233;jeuner</option>
+						<option value="Pizza">Pizza</option>
+						<option value="Massa Fina">Massa Fina</option>
+				</select>
+			</div>
+			<button class="btn btn--ico btn--ico--magnify" type="submit"></button>
+		</div>
+	</form>		
+				</div>				
+			</div>
+								
+			<div class="row">
+				<div class="header-allhotels">
+                	<div class="row no-gutter">
+									<div class="col-md-6">
+                      					<h3>Portugal</h3>
+										<div class="hotel-list">
+												<dl class="region">
+													<dt>Porto y Norte</dt>
+														<dd>
+															<a href="/es/hoteles/porto-y-norte/vila-gale-collection-braga" 
+															class="collection" title="Vila Gal&#233; Collection Braga">
+																Vila Gal&#233; Collection Braga
+															</a>
+														</dd>
+														<dd>
+															<a href="/es/hoteles/porto-y-norte/vila-gale-collection-douro" 
+															class="collection" title="Vila Gal&#233; Collection Douro">
+																Vila Gal&#233; Collection Douro
+															</a>
+														</dd>
+														<dd>
+															<a href="/es/hoteles/porto-y-norte/vila-gale-douro-vineyards" 
+															class="" title="Vila Gal&#233; Douro Vineyards">
+																Vila Gal&#233; Douro Vineyards
+															</a>
+														</dd>
+														<dd>
+															<a href="/es/hoteles/porto-y-norte/vila-gale-porto" 
+															class="" title="Vila Gal&#233; Porto">
+																Vila Gal&#233; Porto
+															</a>
+														</dd>
+														<dd>
+															<a href="/es/hoteles/porto-y-norte/vila-gale-porto-ribeira" 
+															class="" title="Vila Gal&#233; Porto Ribeira">
+																Vila Gal&#233; Porto Ribeira
+															</a>
+														</dd>
+												</dl>
+												<dl class="region">
+													<dt>Centro de Portugal</dt>
+														<dd>
+															<a href="/es/hoteles/centro-de-portugal/vila-gale-coimbra" 
+															class="" title="Vila Gal&#233; Coimbra">
+																Vila Gal&#233; Coimbra
+															</a>
+														</dd>
+														<dd>
+															<a href="/es/hoteles/centro-de-portugal/vila-gale-serra-da-estrela" 
+															class="" title="Vila Gal&#233; Serra da Estrela">
+																Vila Gal&#233; Serra da Estrela
+															</a>
+														</dd>
+												</dl>
+												<dl class="region">
+													<dt>Costa de Lisboa</dt>
+														<dd>
+															<a href="/es/hoteles/costa-de-lisboa/vila-gale-ericeira" 
+															class="" title="Vila Gal&#233; Ericeira">
+																Vila Gal&#233; Ericeira
+															</a>
+														</dd>
+														<dd>
+															<a href="/es/hoteles/costa-de-lisboa/vila-gale-sintra" 
+															class="" title="Vila Gal&#233; Sintra">
+																Vila Gal&#233; Sintra
+															</a>
+														</dd>
+														<dd>
+															<a href="/es/hoteles/costa-de-lisboa/vila-gale-cascais" 
+															class="" title="Vila Gal&#233; Cascais">
+																Vila Gal&#233; Cascais
+															</a>
+														</dd>
+														<dd>
+															<a href="/es/hoteles/costa-de-lisboa/vila-gale-estoril" 
+															class="" title="Vila Gal&#233; Estoril">
+																Vila Gal&#233; Estoril
+															</a>
+														</dd>
+														<dd>
+															<a href="/es/hoteles/costa-de-lisboa/collection-palacio-dos-arcos" 
+															class="collection" title="Collection Pal&#225;cio dos Arcos">
+																Collection Pal&#225;cio dos Arcos
+															</a>
+														</dd>
+														<dd>
+															<a href="/es/hoteles/costa-de-lisboa/vila-gale-opera" 
+															class="" title="Vila Gal&#233; &#211;pera">
+																Vila Gal&#233; &#211;pera
+															</a>
+														</dd>
+												</dl>
+												<dl class="region">
+													<dt>Alentejo</dt>
+														<dd>
+															<a href="/es/hoteles/alentejo/vila-gale-clube-de-campo" 
+															class="" title="Vila Gal&#233; Clube de Campo">
+																Vila Gal&#233; Clube de Campo
+															</a>
+														</dd>
+														<dd>
+															<a href="/es/hoteles/alentejo/vila-gale-evora" 
+															class="" title="Vila Gal&#233; &#201;vora">
+																Vila Gal&#233; &#201;vora
+															</a>
+														</dd>
+														<dd>
+															<a href="/es/hoteles/alentejo/vila-gale-collection-elvas" 
+															class="collection" title="Vila Gal&#233; Collection Elvas">
+																Vila Gal&#233; Collection Elvas
+															</a>
+														</dd>
+														<dd>
+															<a href="/es/hoteles/alentejo/vila-gale-collection-alter-real" 
+															class="collection" title="Vila Gal&#233; Collection Alter Real">
+																Vila Gal&#233; Collection Alter Real
+															</a>
+														</dd>
+												</dl>
+												<dl class="region">
+													<dt>Algarve</dt>
+														<dd>
+															<a href="/es/hoteles/algarve/vila-gale-albacora" 
+															class="" title="Vila Gal&#233; Albacora">
+																Vila Gal&#233; Albacora
+															</a>
+														</dd>
+														<dd>
+															<a href="/es/hoteles/algarve/vila-gale-tavira" 
+															class="" title="Vila Gal&#233; Tavira">
+																Vila Gal&#233; Tavira
+															</a>
+														</dd>
+														<dd>
+															<a href="/es/hoteles/algarve/vila-gale-ampalius" 
+															class="" title="Vila Gal&#233; Ampalius">
+																Vila Gal&#233; Ampalius
+															</a>
+														</dd>
+														<dd>
+															<a href="/es/hoteles/algarve/vila-gale-marina" 
+															class="" title="Vila Gal&#233; Marina">
+																Vila Gal&#233; Marina
+															</a>
+														</dd>
+														<dd>
+															<a href="/es/hoteles/algarve/vila-gale-cerro-alagoa" 
+															class="" title="Vila Gal&#233; Cerro Alagoa">
+																Vila Gal&#233; Cerro Alagoa
+															</a>
+														</dd>
+														<dd>
+															<a href="/es/hoteles/algarve/vila-gale-atlantico" 
+															class="" title="Vila Gal&#233; Atl&#226;ntico">
+																Vila Gal&#233; Atl&#226;ntico
+															</a>
+														</dd>
+														<dd>
+															<a href="/es/hoteles/algarve/vila-gale-collection-praia" 
+															class="collection" title="Vila Gal&#233; Collection Praia">
+																Vila Gal&#233; Collection Praia
+															</a>
+														</dd>
+														<dd>
+															<a href="/es/hoteles/algarve/vila-gale-nautico" 
+															class="" title="Vila Gal&#233; N&#225;utico">
+																Vila Gal&#233; N&#225;utico
+															</a>
+														</dd>
+														<dd>
+															<a href="/es/hoteles/algarve/vila-gale-lagos" 
+															class="" title="Vila Gal&#233; Lagos">
+																Vila Gal&#233; Lagos
+															</a>
+														</dd>
+												</dl>
+												<dl class="region">
+													<dt>Madeira</dt>
+														<dd>
+															<a href="/es/hoteles/madeira/vila-gale-santa-cruz" 
+															class="" title="Vila Gal&#233; Santa Cruz">
+																Vila Gal&#233; Santa Cruz
+															</a>
+														</dd>
+												</dl>
+										</div>		
+									</div>
+									<div class="col-md-6">
+                      					<h3>Brasil</h3>
+										<div class="hotel-list">
+												<dl class="region">
+													<dt>Cear&#225;</dt>
+														<dd>
+															<a href="/es/hoteles/ceara/vila-gale-fortaleza" 
+															class="" title="Vila Gal&#233; Fortaleza">
+																Vila Gal&#233; Fortaleza
+															</a>
+														</dd>
+														<dd>
+															<a href="/es/hoteles/ceara/vila-gale-cumbuco" 
+															class="" title="Vila Gal&#233; Cumbuco">
+																Vila Gal&#233; Cumbuco
+															</a>
+														</dd>
+														<dd>
+															<a href="/es/hoteles/ceara/vg-sun-cumbuco-by-vila-gale" 
+															class="" title="VG Sun Cumbuco by Vila Gal&#233;">
+																VG Sun Cumbuco by Vila Gal&#233;
+															</a>
+														</dd>
+												</dl>
+												<dl class="region">
+													<dt>Rio Grande do Norte</dt>
+														<dd>
+															<a href="/es/hoteles/rio-grande-do-norte/vila-gale-touros" 
+															class="" title="Vila Gal&#233; Touros">
+																Vila Gal&#233; Touros
+															</a>
+														</dd>
+												</dl>
+												<dl class="region">
+													<dt>Pernambuco</dt>
+														<dd>
+															<a href="/es/hoteles/pernambuco/vila-gale-eco-resort-do-cabo" 
+															class="" title="Vila Gal&#233; Eco Resort do Cabo">
+																Vila Gal&#233; Eco Resort do Cabo
+															</a>
+														</dd>
+												</dl>
+												<dl class="region">
+													<dt>Bahia</dt>
+														<dd>
+															<a href="/es/hoteles/bahia/vila-gale-mares" 
+															class="" title="Vila Gal&#233; Mar&#233;s">
+																Vila Gal&#233; Mar&#233;s
+															</a>
+														</dd>
+														<dd>
+															<a href="/es/hoteles/bahia/vila-gale-salvador" 
+															class="" title="Vila Gal&#233; Salvador">
+																Vila Gal&#233; Salvador
+															</a>
+														</dd>
+												</dl>
+												<dl class="region">
+													<dt>Rio de Janeiro</dt>
+														<dd>
+															<a href="/es/hoteles/rio-de-janeiro/vila-gale-rio-de-janeiro" 
+															class="" title="Vila Gal&#233; Rio de Janeiro">
+																Vila Gal&#233; Rio de Janeiro
+															</a>
+														</dd>
+														<dd>
+															<a href="/es/hoteles/rio-de-janeiro/vila-gale-eco-resort-de-angra" 
+															class="" title="Vila Gal&#233; Eco Resort de Angra">
+																Vila Gal&#233; Eco Resort de Angra
+															</a>
+														</dd>
+												</dl>
+										</div>		
+									</div>
+
+
+                	</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section> 
+        
+			</nav>
+		</header>
+		
+
+
+<main role="main" class="hotel-list--no-filters">
+
+	
+
+
+<section class="breadcrumbs">
+	<div class="container">
+		
+			<ul>
+				<li>
+					<a href="/es">
+						P&#225;gina inicial
+					</a>
+				</li>
+				<li>></li>
+					<li>
+						<a href="/es/club/acuerdos">Acuerdos</a>
+					</li>
+					<li>></li>
+				<li><a href="" title="" class="active"></a></li>
+			</ul>
+	</div>	
+</section>
+
+
+	<section class="box-filters no-filters">
+		<div class="container">
+					</div>
+	</section>
+
+	<section class="general-list ">
+		<div class="detail-holder">
+			<div class="container-fluid ">
+				<div class="container">
+
+						<div class="row">
+
+
+<div class="content imagetext container-fluid ">
+			<div class="col-md-7 no-gutter side-image ">
+				<img src="/media/439306/img_slb_665x600px.jpg?quality=89" alt="SLB">
+			</div>
+	<div class="col-md-5">
+		<aside class="info">
+							<h1 class="text-title border-tr">
+					SLB
+				</h1>
+										
+
+							<a class="cta border-tlr" href=" /media/439305/faqs.pdf" title="" target=_blank>
+					<span data-text=""></span>
+				</a>
+					</aside>
+	</div>
+			
+</div>
+						</div>
+
+
+				</div>
+			</div>
+		</div>
+
+	</section>
+
+</main>
+<div id="share" class="share-holder container-fluid">
+	<div class="btn share" data-action="#">
+		<span class="before">
+			<span class="bar"></span>
+			Quiero compartir esta p&#225;gina
+		</span>
+		<span class="after">
+			<span class="bar"></span>
+			<div class="icons">
+				<div class="fb-share-button btn btn-round btn--ico" data-action="shareItem"><span></span></div>
+				<div class="twitter-share-button btn btn-round btn--ico" data-action="shareItem"><span></span></div>
+				<div class="google-share-button btn btn-round btn--ico" data-action="shareItem"><span></span></div>
+				<div class="mail-share-button btn btn-round btn--ico" data-action="shareItem"><span></span></div>
+			</div>
+				Vale, empieza a compartir
+		</span>
+	</div>
+</div>
+				
+		<footer role="contentinfo" class="site-footer">
+      		<div class="container-fluid">
+				
+        		
+
+	<div class="row footer-highlights">
+			<div class="col-md-4">
+				<h2>REVISTA FEEL</h2>
+				<h1>LEA NUESTRA REVISTA E INSP&#205;RESE</h1>
+						<a href="https://www.vilagale.com/media/2082263/feel-n%C2%BA45_online_pt_baixa.pdf" class="cta border-tlr" target="_blank">
+							<span data-text="Quiero inspirarme">
+								Quiero inspirarme
+							</span>
+						</a>
+			</div>
+			<div class="col-md-4">
+				<h2>CLUB VILA GAL&#201;</h2>
+				<h1>TENEMOS UN PROGRAMA DE FIDELIDAD 5* ESTRELLAS</h1>
+						<a href="/es/club/programas-de-fidelidad" class="cta border-tlr">
+							<span data-text="Quiero hacerme miembro">
+								Quiero hacerme miembro
+							</span>
+						</a>
+			</div>
+			<div class="col-md-4">
+				<h2>Juego Nep</h2>
+				<h1>&#161;Ayuda a salvar la isla de Nep</h1>
+						<a href="http://nepkidsclub.vilagale.com/" class="cta border-tlr" target="_blank">
+							<span data-text="Quiero jugar">
+								Quiero jugar
+							</span>
+						</a>
+			</div>
+	</div>
+
+        		
+
+<div class="row footer-viewall">
+	<div class="col-sm-12">
+    	<button class="dropdown_all border-tl" data-action="openAllHotels">
+       		<span>Ver todos nuestros hoteles</span>
+        </button>
+							
+		<div class="header-allhotels allhotels">
+                	<div class="row no-gutter">
+									<div class="col-md-6">
+                      					<h3>Portugal</h3>
+										<div class="hotel-list">
+												<dl class="region">
+													<dt>Porto y Norte</dt>
+														<dd>
+															<a href="/es/hoteles/porto-y-norte/vila-gale-collection-braga" 
+															class="collection" title="Vila Gal&#233; Collection Braga">
+																Vila Gal&#233; Collection Braga
+															</a>
+														</dd>
+														<dd>
+															<a href="/es/hoteles/porto-y-norte/vila-gale-collection-douro" 
+															class="collection" title="Vila Gal&#233; Collection Douro">
+																Vila Gal&#233; Collection Douro
+															</a>
+														</dd>
+														<dd>
+															<a href="/es/hoteles/porto-y-norte/vila-gale-douro-vineyards" 
+															class="" title="Vila Gal&#233; Douro Vineyards">
+																Vila Gal&#233; Douro Vineyards
+															</a>
+														</dd>
+														<dd>
+															<a href="/es/hoteles/porto-y-norte/vila-gale-porto" 
+															class="" title="Vila Gal&#233; Porto">
+																Vila Gal&#233; Porto
+															</a>
+														</dd>
+														<dd>
+															<a href="/es/hoteles/porto-y-norte/vila-gale-porto-ribeira" 
+															class="" title="Vila Gal&#233; Porto Ribeira">
+																Vila Gal&#233; Porto Ribeira
+															</a>
+														</dd>
+												</dl>
+												<dl class="region">
+													<dt>Centro de Portugal</dt>
+														<dd>
+															<a href="/es/hoteles/centro-de-portugal/vila-gale-coimbra" 
+															class="" title="Vila Gal&#233; Coimbra">
+																Vila Gal&#233; Coimbra
+															</a>
+														</dd>
+														<dd>
+															<a href="/es/hoteles/centro-de-portugal/vila-gale-serra-da-estrela" 
+															class="" title="Vila Gal&#233; Serra da Estrela">
+																Vila Gal&#233; Serra da Estrela
+															</a>
+														</dd>
+												</dl>
+												<dl class="region">
+													<dt>Costa de Lisboa</dt>
+														<dd>
+															<a href="/es/hoteles/costa-de-lisboa/vila-gale-ericeira" 
+															class="" title="Vila Gal&#233; Ericeira">
+																Vila Gal&#233; Ericeira
+															</a>
+														</dd>
+														<dd>
+															<a href="/es/hoteles/costa-de-lisboa/vila-gale-sintra" 
+															class="" title="Vila Gal&#233; Sintra">
+																Vila Gal&#233; Sintra
+															</a>
+														</dd>
+														<dd>
+															<a href="/es/hoteles/costa-de-lisboa/vila-gale-cascais" 
+															class="" title="Vila Gal&#233; Cascais">
+																Vila Gal&#233; Cascais
+															</a>
+														</dd>
+														<dd>
+															<a href="/es/hoteles/costa-de-lisboa/vila-gale-estoril" 
+															class="" title="Vila Gal&#233; Estoril">
+																Vila Gal&#233; Estoril
+															</a>
+														</dd>
+														<dd>
+															<a href="/es/hoteles/costa-de-lisboa/collection-palacio-dos-arcos" 
+															class="collection" title="Collection Pal&#225;cio dos Arcos">
+																Collection Pal&#225;cio dos Arcos
+															</a>
+														</dd>
+														<dd>
+															<a href="/es/hoteles/costa-de-lisboa/vila-gale-opera" 
+															class="" title="Vila Gal&#233; &#211;pera">
+																Vila Gal&#233; &#211;pera
+															</a>
+														</dd>
+												</dl>
+												<dl class="region">
+													<dt>Alentejo</dt>
+														<dd>
+															<a href="/es/hoteles/alentejo/vila-gale-clube-de-campo" 
+															class="" title="Vila Gal&#233; Clube de Campo">
+																Vila Gal&#233; Clube de Campo
+															</a>
+														</dd>
+														<dd>
+															<a href="/es/hoteles/alentejo/vila-gale-evora" 
+															class="" title="Vila Gal&#233; &#201;vora">
+																Vila Gal&#233; &#201;vora
+															</a>
+														</dd>
+														<dd>
+															<a href="/es/hoteles/alentejo/vila-gale-collection-elvas" 
+															class="collection" title="Vila Gal&#233; Collection Elvas">
+																Vila Gal&#233; Collection Elvas
+															</a>
+														</dd>
+														<dd>
+															<a href="/es/hoteles/alentejo/vila-gale-collection-alter-real" 
+															class="collection" title="Vila Gal&#233; Collection Alter Real">
+																Vila Gal&#233; Collection Alter Real
+															</a>
+														</dd>
+												</dl>
+												<dl class="region">
+													<dt>Algarve</dt>
+														<dd>
+															<a href="/es/hoteles/algarve/vila-gale-albacora" 
+															class="" title="Vila Gal&#233; Albacora">
+																Vila Gal&#233; Albacora
+															</a>
+														</dd>
+														<dd>
+															<a href="/es/hoteles/algarve/vila-gale-tavira" 
+															class="" title="Vila Gal&#233; Tavira">
+																Vila Gal&#233; Tavira
+															</a>
+														</dd>
+														<dd>
+															<a href="/es/hoteles/algarve/vila-gale-ampalius" 
+															class="" title="Vila Gal&#233; Ampalius">
+																Vila Gal&#233; Ampalius
+															</a>
+														</dd>
+														<dd>
+															<a href="/es/hoteles/algarve/vila-gale-marina" 
+															class="" title="Vila Gal&#233; Marina">
+																Vila Gal&#233; Marina
+															</a>
+														</dd>
+														<dd>
+															<a href="/es/hoteles/algarve/vila-gale-cerro-alagoa" 
+															class="" title="Vila Gal&#233; Cerro Alagoa">
+																Vila Gal&#233; Cerro Alagoa
+															</a>
+														</dd>
+														<dd>
+															<a href="/es/hoteles/algarve/vila-gale-atlantico" 
+															class="" title="Vila Gal&#233; Atl&#226;ntico">
+																Vila Gal&#233; Atl&#226;ntico
+															</a>
+														</dd>
+														<dd>
+															<a href="/es/hoteles/algarve/vila-gale-collection-praia" 
+															class="collection" title="Vila Gal&#233; Collection Praia">
+																Vila Gal&#233; Collection Praia
+															</a>
+														</dd>
+														<dd>
+															<a href="/es/hoteles/algarve/vila-gale-nautico" 
+															class="" title="Vila Gal&#233; N&#225;utico">
+																Vila Gal&#233; N&#225;utico
+															</a>
+														</dd>
+														<dd>
+															<a href="/es/hoteles/algarve/vila-gale-lagos" 
+															class="" title="Vila Gal&#233; Lagos">
+																Vila Gal&#233; Lagos
+															</a>
+														</dd>
+												</dl>
+												<dl class="region">
+													<dt>Madeira</dt>
+														<dd>
+															<a href="/es/hoteles/madeira/vila-gale-santa-cruz" 
+															class="" title="Vila Gal&#233; Santa Cruz">
+																Vila Gal&#233; Santa Cruz
+															</a>
+														</dd>
+												</dl>
+										</div>		
+									</div>
+									<div class="col-md-6">
+                      					<h3>Brasil</h3>
+										<div class="hotel-list">
+												<dl class="region">
+													<dt>Cear&#225;</dt>
+														<dd>
+															<a href="/es/hoteles/ceara/vila-gale-fortaleza" 
+															class="" title="Vila Gal&#233; Fortaleza">
+																Vila Gal&#233; Fortaleza
+															</a>
+														</dd>
+														<dd>
+															<a href="/es/hoteles/ceara/vila-gale-cumbuco" 
+															class="" title="Vila Gal&#233; Cumbuco">
+																Vila Gal&#233; Cumbuco
+															</a>
+														</dd>
+														<dd>
+															<a href="/es/hoteles/ceara/vg-sun-cumbuco-by-vila-gale" 
+															class="" title="VG Sun Cumbuco by Vila Gal&#233;">
+																VG Sun Cumbuco by Vila Gal&#233;
+															</a>
+														</dd>
+												</dl>
+												<dl class="region">
+													<dt>Rio Grande do Norte</dt>
+														<dd>
+															<a href="/es/hoteles/rio-grande-do-norte/vila-gale-touros" 
+															class="" title="Vila Gal&#233; Touros">
+																Vila Gal&#233; Touros
+															</a>
+														</dd>
+												</dl>
+												<dl class="region">
+													<dt>Pernambuco</dt>
+														<dd>
+															<a href="/es/hoteles/pernambuco/vila-gale-eco-resort-do-cabo" 
+															class="" title="Vila Gal&#233; Eco Resort do Cabo">
+																Vila Gal&#233; Eco Resort do Cabo
+															</a>
+														</dd>
+												</dl>
+												<dl class="region">
+													<dt>Bahia</dt>
+														<dd>
+															<a href="/es/hoteles/bahia/vila-gale-mares" 
+															class="" title="Vila Gal&#233; Mar&#233;s">
+																Vila Gal&#233; Mar&#233;s
+															</a>
+														</dd>
+														<dd>
+															<a href="/es/hoteles/bahia/vila-gale-salvador" 
+															class="" title="Vila Gal&#233; Salvador">
+																Vila Gal&#233; Salvador
+															</a>
+														</dd>
+												</dl>
+												<dl class="region">
+													<dt>Rio de Janeiro</dt>
+														<dd>
+															<a href="/es/hoteles/rio-de-janeiro/vila-gale-rio-de-janeiro" 
+															class="" title="Vila Gal&#233; Rio de Janeiro">
+																Vila Gal&#233; Rio de Janeiro
+															</a>
+														</dd>
+														<dd>
+															<a href="/es/hoteles/rio-de-janeiro/vila-gale-eco-resort-de-angra" 
+															class="" title="Vila Gal&#233; Eco Resort de Angra">
+																Vila Gal&#233; Eco Resort de Angra
+															</a>
+														</dd>
+												</dl>
+										</div>		
+									</div>
+
+
+                	</div>
+				</div>
+	</div>
+</div> 
+				
+	
+<div class="row footer-social">
+		<a href="http://www.facebook.com/vilagale" title="Facebook" target="_blank" class="col-xs-15 facebook"></a>
+			<a href="https://twitter.com/vilagalehotels" title="Twitter" target="_blank" class="col-xs-15 twitter"></a>
+			<a href="https://www.instagram.com/vilagale/" title="Instagram" target="_blank" class="col-xs-15 instagram"></a>
+			<a href="https://www.youtube.com/c/VilaGal&#233;Hotels" title="Youtube" target="_blank" class="col-xs-15 youtube"></a>
+			<a href="https://www.tripadvisor.com/Search?q=%22Vila+Gal%C3%A9%22&amp;geo=&amp;pid=3826&amp;typeaheadRedirect=true&amp;redirect=&amp;startTime=1458822333787&amp;uiOrigin=MASTHEAD&amp;returnTo=__2F__" title="Tripadvisor" target="_blank" class="col-xs-15 tripadvisor"></a>
+</div>
+		
+<ul class="row footer-menu">
+	
+
+	
+		<li True>
+			<a href="/es/empleo" title="Empleo" data-id="4817">
+				Empleo
+			</a>
+		</li>
+		<li True>
+			<a href="/es/codigos-gds" title="C&#243;digos GDS" data-id="4856">
+				C&#243;digos GDS
+			</a>
+		</li>
+		<li True>
+			<a href="/es/contactos" title="Contactos" data-id="1105">
+				Contactos
+			</a>
+		</li>
+		<li True>
+			<a href="/es/mejor-precio-garantizado" title="Mejor Precio Garantizado" data-id="9887">
+				Mejor Precio Garantizado
+			</a>
+		</li>
+		<li True>
+			<a href="/es/fondos-comunitarios" title="Fondos Comunitarios" data-id="13204">
+				Fondos Comunitarios
+			</a>
+		</li>
+		<li True>
+			<a href="/es/grupo/media-kit" title="Media Kit" data-id="4847">
+				Media Kit
+			</a>
+		</li>
+</ul>
+			
+<div class="row footer-legal">
+	<div class="col-sm-6">© 2020 Vila Gal&#233; S. A. - Todos los derechos reservados</div>
+	<div class="col-sm-6 right">
+			<a href="/es/aviso-legal" 
+				title="Aviso legal">
+				Aviso legal
+			</a>
+					<a href="/es/politica-de-privacidad" 
+				title="Pol&#237;tica de privacidad">
+				Pol&#237;tica de privacidad
+			</a>
+					<a href="/es/sitemap" 
+				title="Sitemap">
+				Sitemap
+			</a>
+
+			<a target="_blank" href="https://www.livroreclamacoes.pt/inicio/" title="Libro de Reclamaciones">Libro de Reclamaciones</a>
+	</div>
+</div> 
+				
+			</div>
+			
+
+<div class="modal-body fade" id="galleryModal">
+	<a class="closeModal" data-dismiss="modal"></a>
+	<div class="modal-gallery">
+		<div class="navigation container-fluid">
+			<div class="title">
+Galer&#237;a
+			</div>
+		
+			<div class="type">
+				<a href="#" data-type="image" class="gallery-image"></a>
+				<a href="#" data-type="video" class="gallery-video"></a>
+				<a href="#" data-type="panorama" class="gallery-panorama"></a>
+			</div>
+		</div>
+		<div class="container">
+				
+			<div class="image">
+				<div class="desc">
+					<div class="selectbox ">
+						<div class="select-styled">
+							<select class="select-box select-box-style chosen-select" id="" name="" 
+								data-url="" data-placeholder="Elija una opci&#243;n...">
+							</select>
+						</div>
+					</div>
+					<div class="counter">
+						A presentar 
+						<strong><span></span> Imagen(es)
+</strong>
+					</div>
+				</div>
+				<div class="items"></div>
+			</div>
+						
+			<div class="video">
+				<div class="desc">
+					<div class="selectbox ">
+						<div class="select-styled">
+							<select class="select-box select-box-style chosen-select" id="" name="" 
+								data-url="" data-placeholder="Elija una opci&#243;n...">
+							</select>
+						</div>
+					</div>
+					<div class="counter">
+						A presentar 
+						<strong><span></span> Video(s)
+</strong>
+					</div>
+				</div>
+				<div class="items"></div>
+			</div>
+						
+			<div class="panorama">
+				<div class="desc">
+					<div class="selectbox ">
+						<div class="select-styled">
+							<select class="select-box select-box-style chosen-select" id="" name="" 
+								data-url="" data-placeholder="Elija una opci&#243;n...">
+							</select>
+						</div>
+					</div>
+					<div class="counter">
+						A presentar 
+						<strong><span></span> Panorama(s)
+</strong>
+					</div>
+				</div>
+				<div class="items"></div>
+			</div>
+						
+		</div>
+	</div>
+</div>
+		</footer>
+			  
+    	<div class="box-overlay">
+      		<div class="row">
+       		 	<div class="container-fluid">
+          			text
+        		</div>
+      		</div>
+    	</div>
+
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+	    <script>
+			window.jQuery || document.write('<script src="../scripts/libs/jquery-1.12.0.min.js"><\/script>')
+		</script>
+		<script src="https://cdn.timezonedb.com/js/timezonedb.min.js" type="text/javascript"></script>
+		
+		<script src="/scripts/libs/bootstrap.min.js"></script>
+		<script src="/scripts/plugins.js"></script>
+        <script src="/scripts/PliableForm.js"></script>
+		
+		<script src="/scripts/main_new.min.js?v=1.2.9"></script>
+		<script src="/scripts/sliderHomepage.min.js?v=1.0.0"></script>
+		<script src="/scripts/gallery.js?v=1.0.1"></script>
+		<!-- CDF: No JS dependencies were declared //-->
+	
+			
+					
+			<!-- AFFILIRED MASTER TAG, PLEASE DON'T REMOVE -->
+			<script type="text/javascript">
+			(function() {
+			var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+			sc.src = '//customs.affilired.com/track/?merchant=3939';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+			})();
+			</script>
+			<!-- END AFFILIRED MASTER TAG -->	
+
+			
+			
+			
+					
+		<!-- INSIDE MASTER TAGS, PLEASE DON'T REMOVE -->
+        <script>
+
+            (function(u,t,d){
+                var i=d.createElement(t);i.type='text/javascript';i.async=true;i.src='//'+u;
+                var s=d.getElementsByTagName(t)[0]; s.parentNode.insertBefore(i,s);
+            })('//eu2-track.inside-graph.com/gtm/IN-1000709/include.js','script',document);
+
+        </script>
+			
+			<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '355717531856319');
+fbq('track', 'PageView');
+</script>
+<noscript>
+<img height="1" width="1"
+src="https://www.facebook.com/tr?id=355717531856319&ev=PageView
+&noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
+
+<script type="text/javascript">
+var _userway_config = {
+// uncomment the following line to override default position
+// position: '3',
+// uncomment the following line to override default size (values: small, large)
+// size: 'small',
+// uncomment the following line to override default language (e.g., fr, de, es, he, nl, etc.)
+ language: 'es',
+// uncomment the following line to override color set via widget
+// color: 'null',
+// uncomment the following line to override type set via widget(1=man, 2=chair, 3=eye)
+// type: 'null',
+account: 'oIgT5X9Vez'
+};
+</script>
+<script type="text/javascript" src="https://cdn.userway.org/widget.js"></script>
+		<!-- INÍCIO CÓDIGO ASKSUITE -->
+		<script id="script-infochat" data-config=" https://control.asksuite.com/api/companies/rede-vila-gale" src=" https://cdn.asksuite.com/infochat.js"></script>
+		<!-- FIM CÓDIGO ASKSUITE -->
+	</body>
+</html>
